@@ -9,9 +9,7 @@ DB_HOST
 DB_DATABASE
 DB_USERNAME
 DB_PASSWORD
-
 SEKRET_KEY="977fea8deca4c2c2330544cf2e388284" или вашмим значениями
-
 ENKRYPT_KEY="encryptionKey123" или вашмим значениями
 IV_KEY="DLupNWzudbwjDEXz" или вашмим значениями
 
